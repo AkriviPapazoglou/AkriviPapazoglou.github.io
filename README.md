@@ -5,6 +5,8 @@
 2. navigation.md
 3. bio.md
 4. contact.md
+5. config.json
+6. index.html
 
 Και τώρα επεξεργαστείτε το (με μηδέν γνώσεις προγραμματισμού)!
 
