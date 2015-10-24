@@ -7,6 +7,7 @@
 4. contact.md
 5. config.json
 6. index.html
+7. README.md
 
 Και τώρα επεξεργαστείτε το (με μηδέν γνώσεις προγραμματισμού)!
 
