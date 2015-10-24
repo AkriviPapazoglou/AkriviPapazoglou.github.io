@@ -27,8 +27,8 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 * Supervising category maintenance, as well as supporting the implementation of business solutions.
 
 
-## Σπουδές
-* Πτυχίο Διοίκησης επιχειρήσεων, Πάντειο Πανεπιστήμιο
+## Educational Background
+* 9/2015 –  2016 		Open University of Cyprus
 
 ### Επιμορφώσεις - Σεμινάρια - Πιστοποιήσεις
 1. Πιστοποίηση Διαχείρισης Έργου PMI
