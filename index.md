@@ -1,8 +1,8 @@
 # Welcome
 This site is made with MDwiki and with the help of the repository "proto site" of my classmate Ioannis Protonotarios.
 
-## Στόχος:
-1. Κάντε **fork** [αυτό το repository](https://github.com/Protonotarios/proto-site)
+## I am Akrivi Papazoglou
+ I study "Social Information Systems" at the Open University of Cyprus and this web page is part of my first assignment for the course "Information in Social Systems".    
 2. Μετονομάστε το σε `όνομαχρήστησας.github.io` (όπου `όνομαχρήστησας` βάλτε το username στο GitHub. Aν έχετε ήδη τέτοιο repository, διαγράψτε το ή μετονομάστε το πρώτα)
 3. Αυτό ήταν! Τώρα το site είναι live στην διεύθυνση: `http://όνομαχρήστησας.github.io`
 
