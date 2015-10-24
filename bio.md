@@ -3,11 +3,11 @@
 A highly motivated and ambitious individual able to give timely and accurate advice, guidance, support and training to team members and individuals. Possessing excellent management skills and having the ability to work with the minimum of supervision whilst leading a team of twelve or more. Having a proven ability to lead by example, consistently hit targets, improve best practices and organise time efficiently.
 
 ## Professional Experience
-**5/2014 – up to now:** Team Leader at Technical Support Department 
+**5/2014 – up to now:** Team Leader at Technical Support Department *Telecommunications Organization*
 
-**4/2012 – 5/2014:** Technical Support Agent
+**4/2012 – 5/2014:** Technical Support Agent *Telecommunications Organization*
 
-**2/2009 – 3/2010:** Account Assistant and Marketing Professional
+**2/2009 – 3/2010:** Account Assistant and Marketing Professional *shipping industry* 
 
 ## Σπουδές
 * Πτυχίο Διοίκησης επιχειρήσεων, Πάντειο Πανεπιστήμιο
