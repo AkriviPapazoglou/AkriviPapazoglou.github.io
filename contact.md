@@ -1,11 +1,8 @@
 # Contact
 
 **Get in touch with me if you would like to share an idea, do business, or just say hello.**
-&#128222; 2101234567
-&#128241; 6901234567
-&#128224; 2101234567
 
-&#127759; [www.example.com](http://www.example.com)
+&#127759; [www.valiapapazoglou.gmail.com](http://www.valiapapazoglou.gmail.com)
 &#9993; info@example.com
 
 &#127968; Πατησίων 1, Αθήνα
