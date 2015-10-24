@@ -2,12 +2,12 @@
 ## Team Leader 
 A highly motivated and ambitious individual able to give timely and accurate advice, guidance, support and training to team members and individuals. Possessing excellent management skills and having the ability to work with the minimum of supervision whilst leading a team of twelve or more. Having a proven ability to lead by example, consistently hit targets, improve best practices and organise time efficiently.
 
-## Επαγγελματική εμπειρία
-**2015:** Υπεύθυνος πωλήσεων στην εταιρεία ΑΒΓΔΕ
+## Professional Experience
+**5/2014 – up to now:** Team Leader at Technical Support Department 
 
-**2014:** Τμήμα μάρκετινγκ στην εταιρεία ΧΨΩ
+**4/2012 – 5/2014:** Technical Support Agent
 
-**2013:** ...
+**2/2009 – 3/2010:** Account Assistant and Marketing Professional
 
 ## Σπουδές
 * Πτυχίο Διοίκησης επιχειρήσεων, Πάντειο Πανεπιστήμιο
