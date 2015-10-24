@@ -4,6 +4,14 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 
 ## Professional Experience
 **5/2014 – up to now:** Team Leader at Technical Support Department, *"Telecommunications Organization"*
+* Prepare daily workloads for staff and co-ordinate the daily allocation of work. 
+* Motivate the team to achieve high standards and KPI targets. 
+* Deal with and resolving problems and issues which arise. 
+* Mentor and train up junior and new staff. 
+* Monitor and report on standards and performance targets. 
+* Arrange and chair weekly team meetings, focusing on targets and achievements.
+* Ensuring all administrative and IT records are entered and updated correctly. 
+* Provide prompt and accurate information on individual performance
 
 **4/2012 – 5/2014:** Technical Support Agent, *"Telecommunications Organization"*
 
