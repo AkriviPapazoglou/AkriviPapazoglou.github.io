@@ -7,7 +7,7 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 
 **4/2012 – 5/2014:** Technical Support Agent, *"Telecommunications Organization"*
 
-**2/2009 – 3/2010:** Account Assistant and Marketing Professional, *"shipping industry"* 
+**2/2009 – 3/2010:** Account Assistant and Marketing Professional, *"Shipping Industry"* 
 
 ## Σπουδές
 * Πτυχίο Διοίκησης επιχειρήσεων, Πάντειο Πανεπιστήμιο
