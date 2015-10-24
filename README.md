@@ -11,6 +11,8 @@
 
 ##Installation instructions 
 
+##Operating instructions
+
 
 ##Credits and acknowledgments
 
