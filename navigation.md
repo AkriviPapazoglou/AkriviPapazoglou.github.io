@@ -1,4 +1,4 @@
-﻿# MY site
+﻿# My site
 
 [curriculum vitae](bio.md)
 [Φωτογραφίες](photos.md)
