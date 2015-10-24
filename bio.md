@@ -39,20 +39,20 @@ Department of Business Administration, MSc in Services Management with Specializ
 Department of Public Administration,BA Degree in Public Administration with Specialization in Economics and Management.
 
 ### Courses
-1. University of Rochester-New York *11/2013-03/2014* Executive Graduate Seminar in the Power of Markets.
-2. IE Business School-Madrid *01/2014-02/2014* Executive Graduate Seminar in Critical Perspectives on Management.
-3. University of Amsterdam-Netherlands *01/2014-03/2014* Executive Graduate Seminar in Introduction to Communication Science.
-4. University of Virginia *04/2014-05/2014* Executive Graduate Seminar in New Models of Business in Society.
-5. SDA Bocconi-Milan *2010* Executive Graduate Seminars in Media Management Trends and Strategy Consulting in the Telecommu-nications, Management and Technology Services Sectors and the Fashion Industry.
-6. Università della Svizzera italiana (USI)-Lugano *2010* Executive Graduate Seminars in Media for Tourism Communication and Integrated Marketing Communication.
+1. **University of Rochester-New York** *11/2013-03/2014* Executive Graduate Seminar in the Power of Markets.
+2. **IE Business School-Madrid** *01/2014-02/2014* Executive Graduate Seminar in Critical Perspectives on Management.
+3. **University of Amsterdam-Netherlands** *01/2014-03/2014* Executive Graduate Seminar in Introduction to Communication Science.
+4. **University of Virginia** *04/2014-05/2014* Executive Graduate Seminar in New Models of Business in Society.
+5. **SDA Bocconi-Milan** *2010* Executive Graduate Seminars in Media Management Trends and Strategy Consulting in the Telecommu-nications, Management and Technology Services Sectors and the Fashion Industry.
+6. **Università della Svizzera italiana** (USI)-Lugano *2010* Executive Graduate Seminars in Media for Tourism Communication and Integrated Marketing Communication.
 
-## Ξένες γλώσσες
-* Αγγλικά (άπταιστα)
-* Ισπανικά (λίγα)
+## Language Skills
+* English – Fluently, Certificate of Proficiency **University of Michigan, University of Central Lancashire**
+* French – Fluently, Supreme French Language Diploma **DALF 2**
+* Turkish – Very Good
 
-## Ενδιαφέροντα
-* Χορός
-* Ταξίδια
+## Hobbies
+* **Sailing** – Sailing Certificate and member of the Hellenic Offshore Racing Club.
 
 ## Προσωπικά στοιχεία
 * Άγαμος
