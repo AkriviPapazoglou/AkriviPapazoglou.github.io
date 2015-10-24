@@ -38,7 +38,7 @@ Department of Business Administration, MSc in Services Management with Specializ
 **9/2002-7/2007	Panteion University of Social and Political Science**
 Department of Public Administration,BA Degree in Public Administration with Specialization in Economics and Management.
 
-### Courses
+## Courses
 1. **University of Rochester-New York** *11/2013-03/2014* Executive Graduate Seminar in the Power of Markets.
 2. **IE Business School-Madrid** *01/2014-02/2014* Executive Graduate Seminar in Critical Perspectives on Management.
 3. **University of Amsterdam-Netherlands** *01/2014-03/2014* Executive Graduate Seminar in Introduction to Communication Science.
