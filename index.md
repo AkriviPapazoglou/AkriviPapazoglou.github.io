@@ -3,23 +3,16 @@ This site is made with MDwiki and with the help of the repository "proto site" o
 
 ## I am Akrivi Papazoglou
  I study "Social Information Systems" at the Open University of Cyprus and this web page is part of my first assignment for the course "Information in Social Systems".  
+
  Through this web page I have decided to introduce myself and share with you my bio and also things about me.
+
  Even when I finish this project I intend on enriching it and make my personal branding platform.
- 
-2. Μετονομάστε το σε `όνομαχρήστησας.github.io` (όπου `όνομαχρήστησας` βάλτε το username στο GitHub. Aν έχετε ήδη τέτοιο repository, διαγράψτε το ή μετονομάστε το πρώτα)
-3. Αυτό ήταν! Τώρα το site είναι live στην διεύθυνση: `http://όνομαχρήστησας.github.io`
 
-Και τώρα επεξεργαστείτε το (με μηδέν γνώσεις προγραμματισμού)!
 
-## Πώς δουλεύει;
-Όλο κι όλο το site είναι ένα αρχείο, το `index.html` (δεν το πειράζουμε). Οι σελίδες είναι αρχεία απλού κειμένου με κατάληξη `.md` που δεν θέλουν καμία γνώση προγραμματισμού.
+## About me 
+I live and work in Athens and I love reading and traveling.
 
-Για να προσθέσετε σελίδες απλά προσθέστε νέα αρχεία με κατάληξη `.md`.
-
-Εγώ έχω βάλει ήδη μερικές ενδεικτικές σελίδες.
-Μπορείτε να τις επεξεργαστείτε (απευθείας στο GitHub και μάλιστα με προεπισκόπηση!), να τις μετονομάσετε ή να τις διαγράψετε ελεύθερα!
-
-Η αρχική σελίδα (η παρούσα) είναι το αρχείο `index.md`. Επεξεργαστείτε το ελεύθερα αλλά μην το μετονομάσετε!
+I always enjoy and seek the company of my friends and one of my favorite things is going to the movies. 
 
 Hint: Όταν κάνετε ανανέωση σελίδας στο Firefox για να δείτε την ενημερωμένη εκδοχή να πατάτε και shift ταυτόχρονα (στο Chrome να πατάτε control+shift).
 Αν δεν εμφανιστεί η ενημερωμένη σελίδα περιμένετε μερικά δευτερόλεπτα και ξαναδοκιμάστε.
