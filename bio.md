@@ -14,8 +14,18 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 * Provide prompt and accurate information on individual performance
 
 **4/2012 – 5/2014:** Technical Support Agent, *"Telecommunications Organization"*
+* Provide technical customer support, including first and second level network troubleshooting.
+* Determine whether problems are due to connectivity or if they were higher layer problems.
+* Dispatch technician to site if necessary.
 
 **2/2009 – 3/2010:** Account Assistant and Marketing Professional, *"Shipping Industry"* 
+* Overseeing and managing financial budgets.
+* Responsible for the implementation, management and review of all marketing campaigns.
+* Monitor category, subcategory, and item-level financial performance (sales, margin, inventory turns, item pricing, and markdowns).
+* Planning and executing category line reviews, transitional plans, seasonal buys, and item testing.
+* Responsible for overall category, brand and item strategy development and maintenance.
+* Supervising category maintenance, as well as supporting the implementation of business solutions.
+
 
 ## Σπουδές
 * Πτυχίο Διοίκησης επιχειρήσεων, Πάντειο Πανεπιστήμιο
