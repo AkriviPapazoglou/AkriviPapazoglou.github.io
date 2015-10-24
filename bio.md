@@ -29,19 +29,22 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 
 ## Educational Background
 **9/2015-2016 Open University of Cyprus**
-Faculty of Humanities and Social Sciences, MSc in Social Information Systems
+Faculty of Humanities and Social Sciences, MSc in Social Information Systems.
 
 **3/2009-2/2011 Athens University of Economics and Business**
-Department of Business Administration, MSc in Services Management with Specialization in Management Consulting
+Department of Business Administration, MSc in Services Management with Specialization in Management Consulting, 
 **Master Thesis:** *The Evaluation of Management Information Systems with the use of Fuzzy Delphi Method.*
 
 **9/2002-7/2007	Panteion University of Social and Political Science**
-Department of Public Administration,BA Degree in Public Administration with Specialization in Economics and Management
+Department of Public Administration,BA Degree in Public Administration with Specialization in Economics and Management.
 
-### Επιμορφώσεις - Σεμινάρια - Πιστοποιήσεις
-1. Πιστοποίηση Διαχείρισης Έργου PMI
-2. Σεμινάριο Ολικής Ποιότητας, ...
-3. ...
+### Courses
+1. University of Rochester-New York *11/2013-03/2014* Executive Graduate Seminar in the Power of Markets.
+2. IE Business School-Madrid *01/2014-02/2014* Executive Graduate Seminar in Critical Perspectives on Management.
+3. University of Amsterdam-Netherlands *01/2014-03/2014* Executive Graduate Seminar in Introduction to Communication Science.
+4. University of Virginia *04/2014-05/2014* Executive Graduate Seminar in New Models of Business in Society.
+5. SDA Bocconi-Milan *2010* Executive Graduate Seminars in Media Management Trends and Strategy Consulting in the Telecommu-nications, Management and Technology Services Sectors and the Fashion Industry.
+6. Università della Svizzera italiana (USI)-Lugano *2010* Executive Graduate Seminars in Media for Tourism Communication and Integrated Marketing Communication.
 
 ## Ξένες γλώσσες
 * Αγγλικά (άπταιστα)
