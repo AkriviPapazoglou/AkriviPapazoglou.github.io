@@ -1,7 +1,6 @@
-# proto-site
-> [Δείτε το site ζωντανά](http://protonotarios.github.io/proto-site)
+# Read me
 
-## Εγκαταστήστε αυτό το site σε 30 δευτερόλεπτα! Να πώς:
+## File list
 1. Κάντε **fork** το παρόν repository
 2. Μετονομάστε το σε `όνομαχρήστησας.github.io` (όπου `όνομαχρήστησας` βάλτε το username στο GitHub. Aν έχετε ήδη τέτοιο repository, διαγράψτε το ή μετονομάστε το πρώτα)
 3. Αυτό ήταν! Τώρα το site είναι live στην διεύθυνση: `http://όνομαχρήστησας.github.io`
