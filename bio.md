@@ -28,7 +28,15 @@ A highly motivated and ambitious individual able to give timely and accurate adv
 
 
 ## Educational Background
-* 9/2015 –  2016 		Open University of Cyprus
+**9/2015-2016 Open University of Cyprus**
+Faculty of Humanities and Social Sciences, MSc in Social Information Systems
+
+**3/2009-2/2011 Athens University of Economics and Business**
+Department of Business Administration, MSc in Services Management with Specialization in Management Consulting
+**Master Thesis:** *The Evaluation of Management Information Systems with the use of Fuzzy Delphi Method.*
+
+**9/2002-7/2007	Panteion University of Social and Political Science**
+Department of Public Administration,BA Degree in Public Administration with Specialization in Economics and Management
 
 ### Επιμορφώσεις - Σεμινάρια - Πιστοποιήσεις
 1. Πιστοποίηση Διαχείρισης Έργου PMI
