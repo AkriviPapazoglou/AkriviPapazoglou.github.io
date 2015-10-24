@@ -1,8 +1,8 @@
-﻿# Το site μου
+﻿# MY site
 
-[Βιογραφικό](bio.md)
+[curriculum vitae](bio.md)
 [Φωτογραφίες](photos.md)
-[Επικοινωνία](contact.md)
+[contact details](contact.md)
 - - - -
 [Βοήθεια για το site](help.md)
 
