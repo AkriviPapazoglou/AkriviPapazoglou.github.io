@@ -10,7 +10,7 @@ This site is made with MDwiki and with the help of the repository "proto site" o
 
 
 ## About me 
-I live and work in Athens and I love reading and traveling.![](https://scontent-frt3-1.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/536428_487513597948094_1416612372_n.jpg?oh=7be7e9386fa0c41d78417746eeee8908&oe=56CD810C)
+I live and work in Athens and I love reading and traveling.
 
 From 2003 I am a volunteer for the Youth Organization of my city, where I began as a writer/editor with the newsletter, assisted in producing various special events, and have been active in volunteer recruitment and web site management.
 Also, I have been able to be part of a team responsible for the overall organisation of community events, fundraisers, concerts and many other activities for all citizens.
