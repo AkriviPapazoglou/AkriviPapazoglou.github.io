@@ -3,10 +3,10 @@
 ###Personal Summary###
 A highly motivated and ambitious individual able to give timely and accurate advice, guidance, support and training to team members and individuals. Possessing excellent management skills and having the ability to work with the minimum of supervision whilst leading a team of twelve or more. Having a proven ability to lead by example, consistently hit targets, improve best practices and organise time efficiently.
 
-**Areas of Expertise**
-*Supervising*
-*Ability to motivate people* 
-*Strategic planning*
+###Areas of Expertise###
+####Supervising####
+####Ability to motivate people#### 
+####*Strategic planning*####
 *Commercial Awareness* 
 *Equal Opportunities* 
 *Health & Safety Legislation* 
