@@ -1,6 +1,6 @@
 # Contact
 
-## Get in touch with me if you would like to share an idea, do business, or just say hello.
+**Get in touch with me if you would like to share an idea, do business, or just say hello.**
 &#128222; 2101234567
 &#128241; 6901234567
 &#128224; 2101234567
