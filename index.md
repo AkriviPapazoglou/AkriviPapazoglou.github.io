@@ -2,7 +2,9 @@
 This site is made with MDwiki and with the help of the repository "proto site" of my classmate Ioannis Protonotarios.
 
 ## I am Akrivi Papazoglou
- I study "Social Information Systems" at the Open University of Cyprus and this web page is part of my first assignment for the course "Information in Social Systems".    
+ I study "Social Information Systems" at the Open University of Cyprus and this web page is part of my first assignment for the course "Information in Social Systems".    ![](https://www.facebook.com/photo.php?fbid=487513597948094&set=pb.100000683730412.-2207520000.1445713844.&type=3&theater)
+ 
+ 
 2. Μετονομάστε το σε `όνομαχρήστησας.github.io` (όπου `όνομαχρήστησας` βάλτε το username στο GitHub. Aν έχετε ήδη τέτοιο repository, διαγράψτε το ή μετονομάστε το πρώτα)
 3. Αυτό ήταν! Τώρα το site είναι live στην διεύθυνση: `http://όνομαχρήστησας.github.io`
 
