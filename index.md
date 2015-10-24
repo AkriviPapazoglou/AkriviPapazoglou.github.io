@@ -1,5 +1,5 @@
-# Καλωσήλθατε
-Αυτό το site είναι φτιαγμένο με το MDwiki και με τη βοήθεια του repository "proto site" του συμφοιτητή μου Ιωάννη Πρωτονοτάριου.
+# Welcome
+This site is made with MDwiki and with the help of the repository "proto site" of my classmate Ioannis Protonotarios.
 
 ## Στόχος:
 1. Κάντε **fork** [αυτό το repository](https://github.com/Protonotarios/proto-site)
