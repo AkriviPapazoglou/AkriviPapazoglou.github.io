@@ -47,23 +47,9 @@ Department of Public Administration,BA Degree in Public Administration with Spec
 6. **Università della Svizzera italiana** (USI)-Lugano *2010* Executive Graduate Seminars in Media for Tourism Communication and Integrated Marketing Communication.
 
 ## Language Skills
-* English – Fluently, Certificate of Proficiency **University of Michigan, University of Central Lancashire**
-* French – Fluently, Supreme French Language Diploma **DALF 2**
+* English – Fluently, Certificate of Proficiency *University of Michigan, University of Central Lancashire*
+* French – Fluently, Supreme French Language Diploma *DALF 2*
 * Turkish – Very Good
 
 ## Hobbies
 * **Sailing** – Sailing Certificate and member of the Hellenic Offshore Racing Club.
-
-## Προσωπικά στοιχεία
-* Άγαμος
-* ...
-
-Note: Αυτή η σελίδα, όπως και οι άλλες, είναι απλά ενδεικτική. Διαμορφώστε τις όπως *εσείς* θέλετε.
-
-Hint: Για να ξέρετε ποιο αρχείο θα επεξεργαστείτε για την κάθε σελίδα, κοιτάξτε πάνω, στη γραμμή διεύθυνσης (url) του Firefox. Π.χ. αυτή η σελίδα είναι το αρχείο `bio.md`
-
-Hint: Επεξεργαστείτε αυτή τη σελίδα στο fork σας για να δείτε ότι αυτά που λέμε είναι αυτοεξηγούμενα
-
-
-
-
