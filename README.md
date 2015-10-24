@@ -1,6 +1,6 @@
 # Read me
 
-## File list
+## File manifest
 1. index.md
 2. navigation.md
 3. bio.md
