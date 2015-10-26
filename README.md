@@ -8,6 +8,7 @@
 5. config.json
 6. index.html
 7. README.md
+8. favicon.ico
 
 ##Installation instructions 
 
